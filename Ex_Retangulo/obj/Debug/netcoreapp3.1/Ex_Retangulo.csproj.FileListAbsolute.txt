@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\bin\Debug\netcoreapp3.1\Ex_Retangulo.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\bin\Debug\netcoreapp3.1\Ex_Retangulo.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\bin\Debug\netcoreapp3.1\Ex_Retangulo.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\bin\Debug\netcoreapp3.1\Ex_Retangulo.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\bin\Debug\netcoreapp3.1\Ex_Retangulo.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\bin\Debug\netcoreapp3.1\Ex_Retangulo.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\obj\Debug\netcoreapp3.1\Ex_Retangulo.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\obj\Debug\netcoreapp3.1\Ex_Retangulo.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\obj\Debug\netcoreapp3.1\Ex_Retangulo.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\obj\Debug\netcoreapp3.1\Ex_Retangulo.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Visual Studio Code\IDJ\2. Trabalhos\IDJ-Ex\Ex_Retangulo\obj\Debug\netcoreapp3.1\Ex_Retangulo.pdb
