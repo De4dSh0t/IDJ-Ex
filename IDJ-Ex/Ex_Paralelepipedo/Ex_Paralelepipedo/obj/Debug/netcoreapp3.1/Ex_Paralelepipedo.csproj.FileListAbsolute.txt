@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\obj\Debug\netcoreapp3.1\Ex_Paralelepipedo.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\obj\Debug\netcoreapp3.1\Ex_Paralelepipedo.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\obj\Debug\netcoreapp3.1\Ex_Paralelepipedo.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\bin\Debug\netcoreapp3.1\Ex_Paralelepipedo.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\bin\Debug\netcoreapp3.1\Ex_Paralelepipedo.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\bin\Debug\netcoreapp3.1\Ex_Paralelepipedo.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\bin\Debug\netcoreapp3.1\Ex_Paralelepipedo.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\bin\Debug\netcoreapp3.1\Ex_Paralelepipedo.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\bin\Debug\netcoreapp3.1\Ex_Paralelepipedo.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\obj\Debug\netcoreapp3.1\Ex_Paralelepipedo.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\JetBrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Paralelepipedo\Ex_Paralelepipedo\obj\Debug\netcoreapp3.1\Ex_Paralelepipedo.pdb
