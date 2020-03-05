@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\IDJ\\2. Trabalhos\\IDJ-Ex\\Ex_Retangulo\\Ex_Retangulo.csproj",
+      "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\IDJ\\2. Exercícios\\Ex_Retangulo\\Ex_Retangulo.csproj",
       "projectName": "Ex_Retangulo",
-      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\IDJ\\2. Trabalhos\\IDJ-Ex\\Ex_Retangulo\\Ex_Retangulo.csproj",
+      "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\IDJ\\2. Exercícios\\Ex_Retangulo\\Ex_Retangulo.csproj",
       "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Visual Studio Code\\IDJ\\2. Trabalhos\\IDJ-Ex\\Ex_Retangulo\\obj\\",
+      "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\JetBrains Rider\\IDJ\\2. Exercícios\\Ex_Retangulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
