@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\obj\Debug\netcoreapp3.1\Ex_AlunoISMAI.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\obj\Debug\netcoreapp3.1\Ex_AlunoISMAI.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\obj\Debug\netcoreapp3.1\Ex_AlunoISMAI.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\bin\Debug\netcoreapp3.1\Ex_AlunoISMAI.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\bin\Debug\netcoreapp3.1\Ex_AlunoISMAI.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\bin\Debug\netcoreapp3.1\Ex_AlunoISMAI.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\bin\Debug\netcoreapp3.1\Ex_AlunoISMAI.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\bin\Debug\netcoreapp3.1\Ex_AlunoISMAI.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\bin\Debug\netcoreapp3.1\Ex_AlunoISMAI.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\obj\Debug\netcoreapp3.1\Ex_AlunoISMAI.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_AlunoISMAI\Ex_AlunoISMAI\obj\Debug\netcoreapp3.1\Ex_AlunoISMAI.pdb
