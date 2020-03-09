@@ -5,6 +5,6 @@
         PAUS,
         OUROS,
         COPAS,
-        ESPADAS,
+        ESPADAS
     }
 }

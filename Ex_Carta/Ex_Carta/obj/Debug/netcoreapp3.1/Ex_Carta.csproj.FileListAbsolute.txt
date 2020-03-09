@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\bin\Debug\netcoreapp3.1\Ex_Carta.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\bin\Debug\netcoreapp3.1\Ex_Carta.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\bin\Debug\netcoreapp3.1\Ex_Carta.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\bin\Debug\netcoreapp3.1\Ex_Carta.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\bin\Debug\netcoreapp3.1\Ex_Carta.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\bin\Debug\netcoreapp3.1\Ex_Carta.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\obj\Debug\netcoreapp3.1\Ex_Carta.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\obj\Debug\netcoreapp3.1\Ex_Carta.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\obj\Debug\netcoreapp3.1\Ex_Carta.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\obj\Debug\netcoreapp3.1\Ex_Carta.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\Ex_Carta\Ex_Carta\obj\Debug\netcoreapp3.1\Ex_Carta.pdb
