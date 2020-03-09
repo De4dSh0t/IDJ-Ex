@@ -4,12 +4,12 @@ namespace Ex_Carta
 {
     public class Carta
     {
-        public string Nome { get; set; }
+        public Nome nomes { get; set; }
         public Naipe naipes { get; set; }
 
-        public Carta(string n, Naipe naipe)
+        public Carta(Nome n, Naipe naipe)
         {
-            Nome = n;
+            nomes = n;
             naipes = naipe;
         }
     }
