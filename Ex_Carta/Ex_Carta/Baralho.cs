@@ -60,8 +60,16 @@ namespace Ex_Carta
             return c[currentIndex++];
         }
 
-        public bool CheckCard() //Ver se uma carta específica encontra-se no baralho
+        public bool CheckCard(string cardName) //Ver se uma carta específica encontra-se no baralho
         {
+            for (int i = 0; i < c.Length; i++)
+            {
+                if (cardName == c[i].Nome)
+                {
+                    return true;
+                }
+            }
+
             return false;
         }
     }

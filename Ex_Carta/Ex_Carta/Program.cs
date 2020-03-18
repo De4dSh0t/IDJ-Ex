@@ -10,6 +10,7 @@ namespace Ex_Carta
             Baralho b = new Baralho();
             b.Shuffle();
             Console.WriteLine($"Carta retirada: {b.DrawACard().Nome}");
+            b.CheckCard("ÁS DE PAUS");
         }
     }
 }

@@ -7,7 +7,7 @@ namespace Ex_Carta
         //public Nome nomes { get; set; }
         //public Naipe naipes { get; set; }
         //private string nome;
-        public string Nome { get; set; }
+        public string Nome { get; }
 
         public Carta(string n)
         {
