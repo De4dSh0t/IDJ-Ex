@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace Ex_Carta
 {
@@ -31,6 +32,21 @@ namespace Ex_Carta
             for (int i = 0; i < 52; i++) //Print de todas as cartas (para verificar)
             {
                 Console.WriteLine(c[i].Nome);
+            }
+        }
+
+        public void Shuffle()
+        {
+            Random r = new Random();
+            Carta[] tempCard = new Carta[1];
+
+            for (int i = 0; i < 52; i++)
+            {
+                int choose = r.Next(0, 53);
+                int change = r.Next(0, 53);
+                tempCard[0] = c[choose];
+                c[choose] = c[change];
+                c[change] = tempCard[0];
             }
         }
     }

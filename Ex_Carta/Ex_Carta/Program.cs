@@ -8,6 +8,7 @@ namespace Ex_Carta
         static void Main(string[] args)
         {
             Baralho b = new Baralho();
+            b.Shuffle();
         }
     }
 }
