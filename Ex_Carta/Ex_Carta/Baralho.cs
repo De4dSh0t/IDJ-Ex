@@ -42,11 +42,11 @@ namespace Ex_Carta
 
             for (int i = 0; i < 52; i++)
             {
-                int choose = r.Next(0, 53);
-                int change = r.Next(0, 53);
-                tempCard[0] = c[choose];
-                c[choose] = c[change];
-                c[change] = tempCard[0];
+                int chosen = r.Next(0, 53);
+                int toChange = r.Next(0, 53);
+                tempCard[0] = c[chosen];
+                c[chosen] = c[toChange];
+                c[toChange] = tempCard[0];
             }
         }
     }
