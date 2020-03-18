@@ -28,11 +28,6 @@ namespace Ex_Carta
                 nomeI = 0;
                 naipeI++;
             }
-
-            for (int i = 0; i < 52; i++) //Print de todas as cartas (para verificar)
-            {
-                Console.WriteLine(c[i].Nome);
-            }
         }
 
         public void Shuffle()
@@ -62,7 +57,7 @@ namespace Ex_Carta
 
         public bool CheckCard(string cardName) //Ver se uma carta específica encontra-se no baralho
         {
-            for (int i = 0; i < c.Length; i++)
+            for (int i = 0; i < c.Length - 1; i++)
             {
                 if (cardName == c[i].Nome)
                 {
@@ -71,6 +66,14 @@ namespace Ex_Carta
             }
 
             return false;
+        }
+
+        public void PrintDeck()
+        {
+            for (int i = currentIndex; i < c.Length - 1; i++) //Começa em "currentIndex" pois, caso tiremos uma carta do baralho, só devemos dar print às cartas que ainda estão no baralho
+            {
+                Console.WriteLine(c[i].Nome);
+            }
         }
     }
 }

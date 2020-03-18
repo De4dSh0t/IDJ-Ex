@@ -11,6 +11,7 @@ namespace Ex_Carta
             b.Shuffle();
             Console.WriteLine($"Carta retirada: {b.DrawACard().Nome}");
             b.CheckCard("ÁS DE PAUS");
+            b.PrintDeck();
         }
     }
 }
