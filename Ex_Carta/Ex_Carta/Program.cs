@@ -16,14 +16,14 @@ namespace Ex_Carta
                 ConsoleKeyInfo info = Console.ReadKey();
 
                 Console.WriteLine("");
-                Console.WriteLine("/////////////////////////////");
+                Console.WriteLine("/////////////////////");
                 Console.WriteLine("");
                 Console.WriteLine("(1) Shuffle");
                 Console.WriteLine("(2) Draw a Card");
                 Console.WriteLine("(3) Check Card");
                 Console.WriteLine("(4) Print Deck");
                 Console.WriteLine("");
-                Console.WriteLine("/////////////////////////////");
+                Console.WriteLine("/////////////////////");
                 Console.WriteLine("");
                 
                 if (info.KeyChar == '1')
