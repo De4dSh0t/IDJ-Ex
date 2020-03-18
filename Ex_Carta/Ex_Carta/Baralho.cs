@@ -49,5 +49,15 @@ namespace Ex_Carta
                 c[toChange] = tempCard[0];
             }
         }
+
+        public Carta DrawACard()
+        {
+            if (c[currentIndex] == null)
+            {
+                throw new InvalidOperationException("Deck is empty!");
+            }
+
+            return c[currentIndex++];
+        }
     }
 }

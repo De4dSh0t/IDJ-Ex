@@ -9,6 +9,7 @@ namespace Ex_Carta
         {
             Baralho b = new Baralho();
             b.Shuffle();
+            b.DrawACard();
         }
     }
 }
