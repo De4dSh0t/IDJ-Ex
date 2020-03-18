@@ -7,7 +7,7 @@ namespace Ex_Carta
     public class Baralho
     {
         Carta[] c = new Carta[52];
-        private int currentIndex = 0;
+        private int currentIndex = 0; //Usada em "DrawACard()"
 
         public Baralho()
         {
@@ -42,8 +42,8 @@ namespace Ex_Carta
 
             for (int i = 0; i < 52; i++)
             {
-                int chosen = r.Next(0, 53);
-                int toChange = r.Next(0, 53);
+                int chosen = r.Next(0, 52);
+                int toChange = r.Next(0, 52);
                 tempCard[0] = c[chosen];
                 c[chosen] = c[toChange];
                 c[toChange] = tempCard[0];
@@ -52,12 +52,17 @@ namespace Ex_Carta
 
         public Carta DrawACard()
         {
-            if (c[currentIndex] == null)
+            if (currentIndex > c.Length - 1)
             {
                 throw new InvalidOperationException("Deck is empty!");
             }
 
             return c[currentIndex++];
+        }
+
+        public bool CheckCard() //Ver se uma carta específica encontra-se no baralho
+        {
+            return false;
         }
     }
 }

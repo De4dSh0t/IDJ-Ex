@@ -9,7 +9,7 @@ namespace Ex_Carta
         {
             Baralho b = new Baralho();
             b.Shuffle();
-            b.DrawACard();
+            Console.WriteLine($"Carta retirada: {b.DrawACard().Nome}");
         }
     }
 }
