@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Jetbrains Rider\\IDJ\\2. Exercícios\\Ex_Carta\\Ex_Carta\\Ex_Carta.csproj",
+    "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Carta\\Ex_Carta\\Ex_Carta.csproj",
     "projectName": "Ex_Carta",
-    "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Jetbrains Rider\\IDJ\\2. Exercícios\\Ex_Carta\\Ex_Carta\\Ex_Carta.csproj",
-    "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Jetbrains Rider\\IDJ\\2. Exercícios\\Ex_Carta\\Ex_Carta\\obj\\",
+    "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Carta\\Ex_Carta\\Ex_Carta.csproj",
+    "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Carta\\Ex_Carta\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

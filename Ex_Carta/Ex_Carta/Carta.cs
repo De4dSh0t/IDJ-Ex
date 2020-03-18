@@ -4,13 +4,14 @@ namespace Ex_Carta
 {
     public class Carta
     {
-        public Nome nomes { get; set; }
-        public Naipe naipes { get; set; }
+        //public Nome nomes { get; set; }
+        //public Naipe naipes { get; set; }
+        //private string nome;
+        public string Nome { get; set; }
 
-        public Carta(Nome n, Naipe naipe)
+        public Carta(string n)
         {
-            nomes = n;
-            naipes = naipe;
+            Nome = n;
         }
     }
 }
