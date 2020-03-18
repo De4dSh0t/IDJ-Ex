@@ -57,7 +57,7 @@ namespace Ex_Carta
 
         public bool CheckCard(string cardName) //Ver se uma carta específica encontra-se no baralho
         {
-            for (int i = 0; i < c.Length - 1; i++)
+            for (int i = currentIndex; i < c.Length - 1; i++) //Começa em "currentIndex" pois, caso tiremos uma carta do baralho, só devemos comparar às cartas que ainda estão no baralho
             {
                 if (cardName == c[i].Nome)
                 {

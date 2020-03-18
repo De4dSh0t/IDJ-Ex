@@ -22,6 +22,7 @@ namespace Ex_Carta
                 Console.WriteLine("(2) Draw a Card");
                 Console.WriteLine("(3) Check Card");
                 Console.WriteLine("(4) Print Deck");
+                Console.WriteLine("(0) Exit");
                 Console.WriteLine("");
                 Console.WriteLine("/////////////////////");
                 Console.WriteLine("");
