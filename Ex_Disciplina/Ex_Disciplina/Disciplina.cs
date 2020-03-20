@@ -6,7 +6,7 @@ namespace Ex_Disciplina
     {
         private string name; //Nome da disciplina
         private int weekly; //Carga horária semanal
-        private bool type; //Se é semestral ou anual
+        private bool annual; //Se é semestral ou anual
         private string teacher; //Nome do docente
         private string course; //Nome do curso
         private int nStudents; //Nº de alunos inscritos
@@ -48,35 +48,52 @@ namespace Ex_Disciplina
             get { return course; }
             set
             {
-                if (value != "DJD" || value != "ARTES" || value != "TCM")
+                if (string.Equals(value, "DJD")|| string.Equals(value, "ARTES") || string.Equals(value, "TCM"))
+                {
+                    course = value;
+                }
+                else
                 {
                     throw new InvalidOperationException("Cursos: 'DJD', 'ARTES' e 'TCM'!");
                 }
-
-                course = value;
             }
         }
 
-        Disciplina()
+        public Disciplina()
         {
             name = "";
             Weekly = 0;
-            type = false;
+            annual = false;
             teacher = "";
             Course = "";
             NStudents = 0;
         }
 
-        Disciplina(string n, int w, bool t, string nT, string c, int nS)
+        public Disciplina(string n, int w, bool a, string nT, string c, int nS)
         {
             name = n;
             Weekly = w;
-            type = t;
+            annual = a;
             teacher = nT;
             Course = c;
             NStudents = nS;
         }
-        
-        
+
+        public override string ToString()
+        {
+            return $"{name}, Prof. {teacher} - {course}";
+        }
+
+        public int TotalWorkload() //Calcula a carga horária global da disciplina (considerando que um semestre tem 15 semanas)
+        {
+            if (annual == false)
+            {
+                return weekly * 15;
+            }
+            else
+            {
+                return weekly * 30; //Pois, sendo anual, corresponde a dois semestres (15 * 2 = 30)
+            }
+        }
     }
 }

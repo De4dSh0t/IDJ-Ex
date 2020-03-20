@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\bin\Debug\netcoreapp3.1\Ex_Disciplina.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\bin\Debug\netcoreapp3.1\Ex_Disciplina.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\bin\Debug\netcoreapp3.1\Ex_Disciplina.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\bin\Debug\netcoreapp3.1\Ex_Disciplina.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\bin\Debug\netcoreapp3.1\Ex_Disciplina.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\bin\Debug\netcoreapp3.1\Ex_Disciplina.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\obj\Debug\netcoreapp3.1\Ex_Disciplina.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\obj\Debug\netcoreapp3.1\Ex_Disciplina.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\obj\Debug\netcoreapp3.1\Ex_Disciplina.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\obj\Debug\netcoreapp3.1\Ex_Disciplina.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Disciplina\Ex_Disciplina\obj\Debug\netcoreapp3.1\Ex_Disciplina.pdb
