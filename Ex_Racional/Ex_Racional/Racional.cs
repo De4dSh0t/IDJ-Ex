@@ -162,5 +162,10 @@ namespace Ex_Racional
             //Passo pelo processo de descobrir o "mdc" e depois devolvo a nova fração em forma de string
             return result.ToString();
         }
+
+        public float ResultInNumber(Racional fract)
+        {
+            return (float)fract.numerator / fract.denominator;
+        }
     }
 }
