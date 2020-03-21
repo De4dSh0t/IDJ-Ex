@@ -93,5 +93,23 @@ namespace Ex_Racional
 
             return $"{n}/{d}";
         }
+
+        public Racional Add(Racional fract1, Racional fract2)
+        {
+            Racional result = new Racional();
+
+            //Exemplo: (1/2) + (1/3) = (2*1)/(1*3) = 2/3
+            int newNumerator = fract1.denominator * fract2.numerator; 
+            int newDenominator = fract1.numerator * fract2.denominator;
+
+            //Defino o numerador e o denominador na nova fração ("result")
+            result.numerator = newNumerator;
+            result.denominator = newDenominator;
+            
+            //Passo pelo processo de descobrir o "mdc" e depois dou print da nova fração
+            result.ToString();
+            
+            return result;
+        }
     }
 }
