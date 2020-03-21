@@ -7,6 +7,9 @@ namespace Ex_Racional
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
+            Racional r = new Racional(4, 8);
+            r.ToString();
         }
     }
 }

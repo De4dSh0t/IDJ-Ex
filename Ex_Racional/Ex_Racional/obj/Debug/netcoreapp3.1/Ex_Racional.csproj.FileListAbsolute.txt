@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\obj\Debug\netcoreapp3.1\Ex_Racional.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\obj\Debug\netcoreapp3.1\Ex_Racional.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\obj\Debug\netcoreapp3.1\Ex_Racional.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\bin\Debug\netcoreapp3.1\Ex_Racional.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\bin\Debug\netcoreapp3.1\Ex_Racional.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\bin\Debug\netcoreapp3.1\Ex_Racional.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\bin\Debug\netcoreapp3.1\Ex_Racional.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\bin\Debug\netcoreapp3.1\Ex_Racional.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\bin\Debug\netcoreapp3.1\Ex_Racional.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\obj\Debug\netcoreapp3.1\Ex_Racional.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Racional\Ex_Racional\obj\Debug\netcoreapp3.1\Ex_Racional.pdb
