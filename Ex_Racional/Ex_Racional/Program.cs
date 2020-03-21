@@ -12,6 +12,7 @@ namespace Ex_Racional
             Racional r2 = new Racional(1, 3);
             r.ToString();
             r.Add(r, r2);
+            r.Subtract(r, r2);
         }
     }
 }

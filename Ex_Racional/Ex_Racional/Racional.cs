@@ -50,7 +50,7 @@ namespace Ex_Racional
             Denominator = d;
         }
 
-        public int FindMDC()
+        public int FindMDC() //Método usado para encontrar o Máximo Divisor Comum de uma função (usada em "ToString()")
         {
             int mdc = 0; //Máximo Divisor Comum
             int max; //Serve para armazenar o maior valor (entre o Numerador e o Denominador)
@@ -109,6 +109,29 @@ namespace Ex_Racional
             //Passo pelo processo de descobrir o "mdc" e depois dou print da nova fração
             result.ToString();
             
+            return result;
+        }
+
+        public Racional Subtract(Racional fract1, Racional fract2)
+        {
+            Racional subFract1 = new Racional(); //Resultado da operação de multiplicação do numerador e denominador pelo denominador da outra fração
+            Racional subFract2 = new Racional(); //Resultado da operação de multiplicação do numerador e denominador pelo denominador da outra fração
+            Racional result = new Racional();
+            
+            //Exemplo: (1/2)-(1/3) = ((1*3)/(2*3)) / ((1*2)/(3*2)) = (3/6)-(2/6) = 1/6
+            //1º - Multiplicar o Numerador e o Denominador pelo Denominador da outra fração (e vice-versa)
+            subFract1.numerator = fract1.numerator * fract2.denominator;
+            subFract1.denominator = fract1.denominator * fract2.denominator;
+            subFract2.numerator = fract2.numerator * fract1.denominator;
+            subFract2.denominator = fract2.denominator * fract1.denominator;
+            //2º - Subtrair os Numeradores das duas "subFract"
+            result.numerator = subFract1.numerator - subFract2.numerator;
+            //3º - Igualar o denominador do "result" a um dos denominadores do "subFract"
+            result.denominator = subFract1.denominator;
+            
+            //Passo pelo processo de descobrir o "mdc" e depois dou print da nova fração
+            result.ToString();
+
             return result;
         }
     }
