@@ -94,7 +94,7 @@ namespace Ex_Racional
             return $"{n}/{d}";
         }
 
-        public void Add(Racional fract1, Racional fract2)
+        public string Add(Racional fract1, Racional fract2)
         {
             Racional result = new Racional();
 
@@ -106,11 +106,11 @@ namespace Ex_Racional
             result.numerator = newNumerator;
             result.denominator = newDenominator;
             
-            //Passo pelo processo de descobrir o "mdc" e depois dou print da nova fração
-            result.ToString();
+            //Passo pelo processo de descobrir o "mdc" e depois devolvo a nova fração em forma de string
+            return result.ToString();
         }
 
-        public void Subtract(Racional fract1, Racional fract2)
+        public string Subtract(Racional fract1, Racional fract2)
         {
             Racional subFract1 = new Racional(); //Resultado da operação de multiplicação do numerador e denominador pelo denominador da outra fração
             Racional subFract2 = new Racional(); //Resultado da operação de multiplicação do numerador e denominador pelo denominador da outra fração
@@ -127,11 +127,11 @@ namespace Ex_Racional
             //3º - Igualar o denominador do "result" a um dos denominadores do "subFract"
             result.denominator = subFract1.denominator;
             
-            //Passo pelo processo de descobrir o "mdc" e depois dou print da nova fração
-            result.ToString();
+            //Passo pelo processo de descobrir o "mdc" e depois devolvo a nova fração em forma de string
+            return result.ToString();
         }
 
-        public void Multiply(Racional fract1, Racional fract2)
+        public string Multiply(Racional fract1, Racional fract2)
         {
             Racional result = new Racional();
             
@@ -143,8 +143,24 @@ namespace Ex_Racional
             result.numerator = newNumerator;
             result.denominator = newDenominator;
             
-            //Passo pelo processo de descobrir o "mdc" e depois dou print da nova fração
-            result.ToString();
+            //Passo pelo processo de descobrir o "mdc" e depois devolvo a nova fração em forma de string
+            return result.ToString();
+        }
+
+        public string Divide(Racional fract1, Racional fract2)
+        {
+            Racional result = new Racional();
+            
+            //Exemplo: (1/2)/(1/3) = (1*3)/(2*1) = 3/2
+            int newNumerator = fract1.numerator * fract2.denominator;
+            int newDenominator = fract1.denominator * fract2.numerator;
+            
+            //Defino o numerador e o denominador na nova fração ("result")
+            result.numerator = newNumerator;
+            result.denominator = newDenominator;
+            
+            //Passo pelo processo de descobrir o "mdc" e depois devolvo a nova fração em forma de string
+            return result.ToString();
         }
     }
 }

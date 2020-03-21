@@ -10,9 +10,11 @@ namespace Ex_Racional
             
             Racional r = new Racional(1, 2);
             Racional r2 = new Racional(1, 3);
-            r.ToString();
-            r.Add(r, r2);
-            r.Subtract(r, r2);
+            Console.WriteLine(r.ToString());
+            Console.WriteLine(r.Add(r, r2));
+            Console.WriteLine(r.Subtract(r, r2));
+            Console.WriteLine(r.Multiply(r, r2));
+            Console.WriteLine(r.Divide(r, r2));
         }
     }
 }
