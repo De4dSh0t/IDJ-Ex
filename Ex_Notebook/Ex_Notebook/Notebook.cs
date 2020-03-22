@@ -67,5 +67,21 @@ namespace Ex_Notebook
 
             return result;
         }
+
+        public Notebook()
+        {
+            Cpu = String.Empty;
+            Ram = String.Empty;
+            Gpu = String.Empty;
+            Disk = String.Empty;
+        }
+
+        public Notebook(string c, string r, string g, string d)
+        {
+            Cpu = c;
+            Ram = r;
+            Gpu = g;
+            Disk = d;
+        }
     }
 }
