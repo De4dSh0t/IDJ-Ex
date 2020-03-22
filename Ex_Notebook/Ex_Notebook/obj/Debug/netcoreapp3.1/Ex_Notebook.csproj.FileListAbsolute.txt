@@ -1,0 +1,13 @@
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/bin/Debug/netcoreapp3.1/Ex_Notebook
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/bin/Debug/netcoreapp3.1/Ex_Notebook.deps.json
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/bin/Debug/netcoreapp3.1/Ex_Notebook.runtimeconfig.json
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/bin/Debug/netcoreapp3.1/Ex_Notebook.runtimeconfig.dev.json
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/bin/Debug/netcoreapp3.1/Ex_Notebook.dll
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/bin/Debug/netcoreapp3.1/Ex_Notebook.pdb
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.csprojAssemblyReference.cache
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.csproj.CoreCompileInputs.cache
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.AssemblyInfoInputs.cache
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.AssemblyInfo.cs
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.dll
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.pdb
+/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.genruntimeconfig.cache
