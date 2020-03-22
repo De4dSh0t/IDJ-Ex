@@ -13,30 +13,59 @@ namespace Ex_Notebook
         {
             set
             {
-                int wordCount = 1;
-                int usableChars = 0;
-                string result = String.Empty; //Resultado final após o truncamento
-
-                for (int i = 0; i < value.Length; i++) //Percorre todos os "Char" da string
-                {
-                    if (value[i] == ' ' || value[i] == '\n' || value[i] == '\t') //Se um dos "char" for um espaço, uma nova linha ou um tab, então "wordCount" incrementa.
-                    {
-                        wordCount++;
-                    }
-
-                    if (wordCount <= 2) //Enquanto o wordcount for menor/igual que 2, o "usableChars" vai incrementar de forma a saber quantos "char" é que posso usar
-                    {
-                        usableChars++;
-                    }
-                }
-
-                if (wordCount > 2) //Usando o "usableChars", vou remover todos os "char" para além desse número
-                {
-                    result = value.Remove(usableChars + 1, value.Length - (usableChars + 1));
-                }
-
-                cpu = result;
+                cpu = TrimString(value);
             }
+        }
+
+        public string Ram
+        {
+            set
+            {
+                ram = TrimString(value);
+            }
+        }
+
+        public string Gpu
+        {
+            set
+            {
+                gpu = TrimString(value);
+            }
+        }
+
+        public string Disk
+        {
+            set
+            {
+                disk = TrimString(value);
+            }
+        }
+
+        private string TrimString(string str) //Método usado para truncar uma string (2 palavras)
+        {
+            int wordCount = 1;
+            int usableChars = 0;
+            string result = String.Empty; //Resultado final após o truncamento
+
+            for (int i = 0; i < str.Length; i++) //Percorre todos os "Char" da string
+            {
+                if (str[i] == ' ' || str[i] == '\n' || str[i] == '\t') //Se um dos "char" for um espaço, uma nova linha ou um tab, então "wordCount" incrementa.
+                {
+                    wordCount++;
+                }
+
+                if (wordCount <= 2) //Enquanto o wordcount for menor/igual que 2, o "usableChars" vai incrementar de forma a saber quantos "char" é que posso usar
+                {
+                    usableChars++;
+                }
+            }
+
+            if (wordCount > 2) //Usando o "usableChars", vou remover todos os "char" para além desse número
+            {
+                result = str.Remove(usableChars + 1, str.Length - (usableChars + 1));
+            }
+
+            return result;
         }
     }
 }
