@@ -38,7 +38,7 @@ namespace Ex_Notebook
         {
             int wordCount = 1;
             int usableChars = 0;
-            string result = String.Empty; //Resultado final após o truncamento
+            string result = str; //Resultado final após o truncamento
 
             for (int i = 0; i < str.Length; i++) //Percorre todos os "Char" da string
             {
