@@ -27,7 +27,7 @@ namespace Ex_Notebook
             {
                 if (value <= 0)
                 {
-                    throw new InvalidOperationException("Really... Please insert a value greater than 0!");
+                    throw new InvalidOperationException("Please insert a value greater than 0!");
                 }
 
                 capacity = value;

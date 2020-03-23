@@ -11,3 +11,14 @@
 /home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.dll
 /home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.pdb
 /home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/Debug/netcoreapp3.1/Ex_Notebook.genruntimeconfig.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\bin\Debug\netcoreapp3.1\Ex_Notebook.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\bin\Debug\netcoreapp3.1\Ex_Notebook.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\bin\Debug\netcoreapp3.1\Ex_Notebook.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\bin\Debug\netcoreapp3.1\Ex_Notebook.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\bin\Debug\netcoreapp3.1\Ex_Notebook.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\bin\Debug\netcoreapp3.1\Ex_Notebook.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\obj\Debug\netcoreapp3.1\Ex_Notebook.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\obj\Debug\netcoreapp3.1\Ex_Notebook.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\obj\Debug\netcoreapp3.1\Ex_Notebook.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\obj\Debug\netcoreapp3.1\Ex_Notebook.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Universidade\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_Notebook\Ex_Notebook\obj\Debug\netcoreapp3.1\Ex_Notebook.pdb

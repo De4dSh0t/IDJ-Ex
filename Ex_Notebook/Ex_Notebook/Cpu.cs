@@ -6,7 +6,7 @@ namespace Ex_Notebook
     {
         private string name;
         private string model;
-        private float clockSpeed;
+        private double clockSpeed;
 
         public string Name
         {
@@ -20,7 +20,7 @@ namespace Ex_Notebook
             set { model = TrimString(value); }
         }
 
-        public float ClockSpeed
+        public double ClockSpeed
         {
             get { return clockSpeed; }
             set
