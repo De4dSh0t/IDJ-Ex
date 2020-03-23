@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/Ex_Notebook.csproj": {}
+    "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Notebook\\Ex_Notebook\\Ex_Notebook.csproj": {}
   },
   "projects": {
-    "/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/Ex_Notebook.csproj": {
+    "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Notebook\\Ex_Notebook\\Ex_Notebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/Ex_Notebook.csproj",
+        "projectUniqueName": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Notebook\\Ex_Notebook\\Ex_Notebook.csproj",
         "projectName": "Ex_Notebook",
-        "projectPath": "/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/Ex_Notebook.csproj",
-        "packagesPath": "/home/rui/.nuget/packages/",
-        "outputPath": "/home/rui/Documentos/IDJ-Ex/Ex_Notebook/Ex_Notebook/obj/",
+        "projectPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Notebook\\Ex_Notebook\\Ex_Notebook.csproj",
+        "packagesPath": "C:\\Users\\ruips\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ruips\\OneDrive\\PC (Back-Up)\\Ambiente de Trabalho\\Universidade\\Jetbrains Rider\\IDJ\\2. Exercícios\\IDJ-Ex\\Ex_Notebook\\Ex_Notebook\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/rui/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ruips\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

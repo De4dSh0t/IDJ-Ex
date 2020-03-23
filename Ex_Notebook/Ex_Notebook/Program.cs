@@ -8,7 +8,7 @@ namespace Ex_Notebook
         {
             Notebook n = new Notebook();
 
-            n.Cpu = "Hello World! I'm happy";
+            
         }
     }
 }
