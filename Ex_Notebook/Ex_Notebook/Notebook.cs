@@ -55,5 +55,15 @@ namespace Ex_Notebook
                    $"GPU: {gpu.Name} | {gpu.Model} | {gpu.ClockSpeed} mhz \n" +
                    $"DISK: {disk.Name} | {disk.Model} | {disk.Capacity} gb";
         }
+
+        public bool CompareMemory(Notebook n1, Notebook n2)
+        {
+            return n1.ram.Capacity > n2.ram.Capacity;
+        }
+
+        public bool CompareCpu(Notebook n1, Notebook n2)
+        {
+            return n1.cpu.ClockSpeed > n2.cpu.ClockSpeed;
+        }
     }
 }
