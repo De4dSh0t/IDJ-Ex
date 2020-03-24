@@ -56,14 +56,34 @@ namespace Ex_Notebook
                    $"DISK: {disk.Name} | {disk.Model} | {disk.Capacity} gb";
         }
 
-        public bool CompareMemory(Notebook n1, Notebook n2)
+        public int CompareMemory(Notebook n1, Notebook n2)
         {
-            return n1.ram.Capacity > n2.ram.Capacity;
+            if (n1.ram.Capacity > n2.ram.Capacity)
+            {
+                return 1;
+            }
+
+            if (n1.ram.Capacity < n2.ram.Capacity)
+            {
+                return -1;
+            }
+            
+            return 0;
         }
 
-        public bool CompareCpu(Notebook n1, Notebook n2)
+        public int CompareCpu(Notebook n1, Notebook n2)
         {
-            return n1.cpu.ClockSpeed > n2.cpu.ClockSpeed;
+            if (n1.cpu.ClockSpeed > n2.cpu.ClockSpeed)
+            {
+                return 1;
+            }
+
+            if (n1.cpu.ClockSpeed < n2.cpu.ClockSpeed)
+            {
+                return -1;
+            }
+            
+            return 0;
         }
     }
 }
