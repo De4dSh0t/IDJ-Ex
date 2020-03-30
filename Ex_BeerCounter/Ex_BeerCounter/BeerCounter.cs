@@ -2,8 +2,8 @@
 {
     public static class BeerCounter
     {
-        private static int beerInStock;
-        private static int beersDrankCount;
+        public static int beerInStock;
+        public static int beersDrankCount;
 
         public static void BeerInStock(int bottlesCount)
         {
@@ -12,7 +12,8 @@
 
         public static void DrinkBeer(int bottlesCount)
         {
-            beersDrankCount -= bottlesCount;
+            beerInStock -= bottlesCount;
+            beersDrankCount += bottlesCount;
         }
     }
 }

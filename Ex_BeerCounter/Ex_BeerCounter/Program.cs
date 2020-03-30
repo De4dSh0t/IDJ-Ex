@@ -15,20 +15,13 @@ namespace Ex_BeerCounter
                 int BuyBeer = int.Parse(words[0]);
                 int DrinkBeer = int.Parse(words[1]);
                 
-                if (BuyBeer != 0)
-                {
-                    BeerCounter.BeerInStock(BuyBeer);
-                }
-
-                if (DrinkBeer != 0)
-                {
-                    BeerCounter.DrinkBeer(DrinkBeer);
-                }
+                BeerCounter.BeerInStock(BuyBeer);
+                BeerCounter.DrinkBeer(DrinkBeer);
 
                 input = Console.ReadLine();
             }
             
-            //Console.WriteLine($"{ BeerCounter.BeerInStock(0) } { BeerCounter.DrinkBeer(0) }");
+            Console.WriteLine($"{ BeerCounter.beerInStock } { BeerCounter.beersDrankCount }");
         }
     }
 }
