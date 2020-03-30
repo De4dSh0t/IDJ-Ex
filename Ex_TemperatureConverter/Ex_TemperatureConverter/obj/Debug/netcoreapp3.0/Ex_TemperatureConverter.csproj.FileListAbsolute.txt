@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\bin\Debug\netcoreapp3.0\Ex_TemperatureConverter.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\bin\Debug\netcoreapp3.0\Ex_TemperatureConverter.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\bin\Debug\netcoreapp3.0\Ex_TemperatureConverter.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\bin\Debug\netcoreapp3.0\Ex_TemperatureConverter.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\bin\Debug\netcoreapp3.0\Ex_TemperatureConverter.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\bin\Debug\netcoreapp3.0\Ex_TemperatureConverter.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\obj\Debug\netcoreapp3.0\Ex_TemperatureConverter.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\obj\Debug\netcoreapp3.0\Ex_TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\obj\Debug\netcoreapp3.0\Ex_TemperatureConverter.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\obj\Debug\netcoreapp3.0\Ex_TemperatureConverter.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_TemperatureConverter\Ex_TemperatureConverter\obj\Debug\netcoreapp3.0\Ex_TemperatureConverter.pdb
