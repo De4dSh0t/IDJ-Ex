@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Ex_BeerCounter/1.0.0": {
+        "runtime": {
+          "Ex_BeerCounter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_BeerCounter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

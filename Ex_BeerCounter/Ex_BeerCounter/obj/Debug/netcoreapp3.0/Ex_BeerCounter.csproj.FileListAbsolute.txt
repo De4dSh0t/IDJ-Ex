@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\bin\Debug\netcoreapp3.0\Ex_BeerCounter.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\bin\Debug\netcoreapp3.0\Ex_BeerCounter.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\bin\Debug\netcoreapp3.0\Ex_BeerCounter.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\bin\Debug\netcoreapp3.0\Ex_BeerCounter.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\bin\Debug\netcoreapp3.0\Ex_BeerCounter.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\bin\Debug\netcoreapp3.0\Ex_BeerCounter.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\obj\Debug\netcoreapp3.0\Ex_BeerCounter.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\obj\Debug\netcoreapp3.0\Ex_BeerCounter.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\obj\Debug\netcoreapp3.0\Ex_BeerCounter.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\obj\Debug\netcoreapp3.0\Ex_BeerCounter.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_BeerCounter\Ex_BeerCounter\obj\Debug\netcoreapp3.0\Ex_BeerCounter.pdb
