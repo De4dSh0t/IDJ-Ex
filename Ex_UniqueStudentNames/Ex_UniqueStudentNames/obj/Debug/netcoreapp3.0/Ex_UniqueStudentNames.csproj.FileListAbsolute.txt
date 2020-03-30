@@ -1,0 +1,11 @@
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\bin\Debug\netcoreapp3.0\Ex_UniqueStudentNames.exe
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\bin\Debug\netcoreapp3.0\Ex_UniqueStudentNames.deps.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\bin\Debug\netcoreapp3.0\Ex_UniqueStudentNames.runtimeconfig.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\bin\Debug\netcoreapp3.0\Ex_UniqueStudentNames.runtimeconfig.dev.json
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\bin\Debug\netcoreapp3.0\Ex_UniqueStudentNames.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\bin\Debug\netcoreapp3.0\Ex_UniqueStudentNames.pdb
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\obj\Debug\netcoreapp3.0\Ex_UniqueStudentNames.csprojAssemblyReference.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\obj\Debug\netcoreapp3.0\Ex_UniqueStudentNames.AssemblyInfoInputs.cache
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\obj\Debug\netcoreapp3.0\Ex_UniqueStudentNames.AssemblyInfo.cs
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\obj\Debug\netcoreapp3.0\Ex_UniqueStudentNames.dll
+C:\Users\ruips\OneDrive\PC (Back-Up)\Ambiente de Trabalho\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_UniqueStudentNames\Ex_UniqueStudentNames\obj\Debug\netcoreapp3.0\Ex_UniqueStudentNames.pdb
