@@ -11,17 +11,30 @@ namespace Ex_TemperatureConverter
             while (input != "End")
             {
                 string[] words = input.Split( " ");
-                if (words[1] == "Celsius")
-                {
-                    double n = Double.Parse(words[0]);
-                    Console.WriteLine($"{Math.Round(TempConverter.ToFahrenheit(n), 2)} Fahrenheit");
-                }
-                else if(words[1] == "Fahrenheit")
-                {
-                    double n = Double.Parse(words[0]);
-                    Console.WriteLine($"{Math.Round(TempConverter.ToCelsius(n), 2)} Celsius");
-                }
 
+                switch (words[1])
+                {
+                    case "Celsius":
+                    {
+                        double n = Double.Parse(words[0]);
+                        Console.WriteLine($"{Math.Round(TempConverter.ToFahrenheit(n), 2)} Fahrenheit");
+                        break;
+                    }
+
+                    case "Fahrenheit":
+                    {
+                        double n = Double.Parse(words[0]);
+                        Console.WriteLine($"{Math.Round(TempConverter.ToCelsius(n), 2)} Celsius");
+                        break;
+                    }
+
+                    default:
+                    {
+                        Console.WriteLine("Insert either 'Celsius' or 'Fahrenheit'!");
+                        break;
+                    }
+                }
+                
                 input = Console.ReadLine();
             }
         }
