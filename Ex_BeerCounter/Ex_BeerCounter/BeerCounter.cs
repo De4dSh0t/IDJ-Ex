@@ -12,7 +12,7 @@
 
         public static void DrinkBeer(int bottlesCount)
         {
-            beerInStock -= bottlesCount;
+            beersDrankCount -= bottlesCount;
         }
     }
 }
