@@ -1,0 +1,13 @@
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\bin\Debug\netcoreapp3.1\Ex_AnimalClinic.exe
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\bin\Debug\netcoreapp3.1\Ex_AnimalClinic.deps.json
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\bin\Debug\netcoreapp3.1\Ex_AnimalClinic.runtimeconfig.json
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\bin\Debug\netcoreapp3.1\Ex_AnimalClinic.runtimeconfig.dev.json
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\bin\Debug\netcoreapp3.1\Ex_AnimalClinic.dll
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\bin\Debug\netcoreapp3.1\Ex_AnimalClinic.pdb
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\obj\Debug\netcoreapp3.1\Ex_AnimalClinic.csprojAssemblyReference.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\obj\Debug\netcoreapp3.1\Ex_AnimalClinic.csproj.CoreCompileInputs.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\obj\Debug\netcoreapp3.1\Ex_AnimalClinic.AssemblyInfoInputs.cache
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\obj\Debug\netcoreapp3.1\Ex_AnimalClinic.AssemblyInfo.cs
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\obj\Debug\netcoreapp3.1\Ex_AnimalClinic.dll
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\obj\Debug\netcoreapp3.1\Ex_AnimalClinic.pdb
+C:\Users\ruips\Desktop\Jetbrains Rider\IDJ\2. Exercícios\IDJ-Ex\Ex_AnimalClinic\Ex_AnimalClinic\obj\Debug\netcoreapp3.1\Ex_AnimalClinic.genruntimeconfig.cache
