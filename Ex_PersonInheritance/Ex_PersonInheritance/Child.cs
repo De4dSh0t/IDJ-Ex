@@ -4,9 +4,9 @@ namespace Ex_PersonInheritance
 {
     public class Child : Person
     {
-        public override int Age
+        protected override int Age
         {
-            get { return base.Age; }
+            get => base.Age;
             set
             {
                 if (value > 15)

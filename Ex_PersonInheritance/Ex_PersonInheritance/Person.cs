@@ -8,9 +8,9 @@ namespace Ex_PersonInheritance
         private string name;
         private int age;
 
-        public virtual string Name
+        protected virtual string Name
         {
-            get { return name; }
+            get => name;
             set
             {
                 if (value.Length < 3)
@@ -20,9 +20,10 @@ namespace Ex_PersonInheritance
                 name = value;
             }
         }
-        public virtual int Age 
+
+        protected virtual int Age 
         {
-            get { return age; }
+            get => age;
             set
             {
                 if (value <= 0)
@@ -34,7 +35,7 @@ namespace Ex_PersonInheritance
             }
         }
 
-        public Person(string name, int age)
+        protected Person(string name, int age)
         {
             Name = name;
             Age = age;
