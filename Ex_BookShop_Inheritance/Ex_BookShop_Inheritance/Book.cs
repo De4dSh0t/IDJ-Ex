@@ -53,6 +53,13 @@ namespace Ex_BookShop_Inheritance
             }
         }
 
+        public Book(string author, string title, double price)
+        {
+            Author = author;
+            Title = title;
+            Price = price;
+        }
+
         public override string ToString()
         {
             StringBuilder sB = new StringBuilder();
@@ -62,7 +69,7 @@ namespace Ex_BookShop_Inheritance
                 .Append(Environment.NewLine)
                 .Append("Author: ").Append(Author)
                 .Append(Environment.NewLine)
-                .Append("Pice: ").Append(Price)
+                .Append("Pice: ").Append(Price).Append(" €")
                 .Append(Environment.NewLine);
 
             return sB.ToString();
