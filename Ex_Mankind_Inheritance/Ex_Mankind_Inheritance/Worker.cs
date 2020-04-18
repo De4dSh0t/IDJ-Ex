@@ -46,7 +46,7 @@ namespace Ex_Mankind_Inheritance
                     throw new ArgumentException("Expected value mismatch! Argument: workHoursPerDay");
                 }
 
-                weekSalary = value;
+                workHoursPerDay = value;
             }
         }
         
