@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9c2baee-3077-4ee1-9745-fcc21e3aaecf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/.idea/.idea.Ex_AnimalClinic/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_BasicMath/.idea/.idea.Ex_BasicMath/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Carta/.idea/.idea.Ex_Carta/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_MordorsCrueltyPlan_Inheritance/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_MordorsCrueltyPlan_Inheritance/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_MordorsCrueltyPlan_Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/Ex_MordorsCrueltyPlan_Inheritance.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/FoodFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/Debug/netcoreapp3.1/Ex_MordorsCrueltyPlan_Inheritance.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/Debug/netcoreapp3.1/Ex_MordorsCrueltyPlan_Inheritance.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/Debug/netcoreapp3.1/Ex_MordorsCrueltyPlan_Inheritance.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/Debug/netcoreapp3.1/Ex_MordorsCrueltyPlan_Inheritance.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/Ex_MordorsCrueltyPlan_Inheritance.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/Ex_MordorsCrueltyPlan_Inheritance.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/Ex_MordorsCrueltyPlan_Inheritance.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_Notebook/.idea/.idea.Ex_Notebook/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_TemperatureConverter/.idea/.idea.Ex_TemperatureConverter/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex_UniqueStudentNames/.idea/.idea.Ex_UniqueStudentNames/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/Aluno.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/Aluno.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Ex_AlunoISMAI.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Ex_AlunoISMAI.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Ex_AlunoISMAI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Ex_AlunoISMAI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/bin/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/bin/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/bin/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/bin/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/Ex_PersonInheritance/obj/Debug/netcoreapp3.1/Ex_PersonInheritance.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/Ex_PersonInheritance/obj/Debug/netcoreapp3.1/Ex_PersonInheritance.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/Ex_PersonInheritance/obj/Ex_PersonInheritance.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/Ex_PersonInheritance/obj/Ex_PersonInheritance.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/bin/Debug/netcoreapp3.0/Ex_TemperatureConverter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/bin/Debug/netcoreapp3.0/Ex_TemperatureConverter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/bin/Debug/netcoreapp3.0/Ex_TemperatureConverter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/bin/Debug/netcoreapp3.0/Ex_TemperatureConverter.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/obj/Debug/netcoreapp3.0/Ex_TemperatureConverter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/obj/Debug/netcoreapp3.0/Ex_TemperatureConverter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/obj/Debug/netcoreapp3.0/Ex_TemperatureConverter.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_TemperatureConverter/Ex_TemperatureConverter/obj/Debug/netcoreapp3.0/Ex_TemperatureConverter.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/FoodFactory.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/Program.cs" />
+        <option value="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/FoodFactory.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ain6ABR30YVqLbXBdQ5alBtYy0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="ReSpellerSettingsId" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ex_MordorsCrueltyPlan_Inheritance" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Ex_MordorsCrueltyPlan_Inheritance/Ex_MordorsCrueltyPlan_Inheritance.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9c2baee-3077-4ee1-9745-fcc21e3aaecf" name="Default Changelist" comment="" />
+      <created>1587227103126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587227103126</updated>
+      <workItem from="1587227108526" duration="3839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1587227103228">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size/62.0.1474.864@62.0.1474.864" timestamp="1587227103228" />
+  </component>
+</project>
