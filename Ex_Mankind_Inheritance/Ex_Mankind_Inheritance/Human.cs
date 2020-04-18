@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Ex_Mankind_Inheritance
 {
@@ -49,6 +50,17 @@ namespace Ex_Mankind_Inheritance
         {
             FirstName = firstName;
             LastName = lastName;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sB = new StringBuilder();
+
+            sB.Append("First Name: ").Append(firstName)
+                .Append(Environment.NewLine)
+                .Append("Last Name: ").Append(lastName);
+
+            return sB.ToString();
         }
     }
 }

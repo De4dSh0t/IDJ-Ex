@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Ex_Mankind_Inheritance
 {
@@ -10,7 +11,7 @@ namespace Ex_Mankind_Inheritance
 
         public override string LastName
         {
-            get => lastName;
+            get => base.LastName;
             set
             {
                 if (value.Length <= 3) //Verifica se o comprimento do nome é igual ou menor a 3 letras
@@ -18,7 +19,7 @@ namespace Ex_Mankind_Inheritance
                     throw new ArgumentException("Expected length more than 3 letters! Argument: lastName (Worker)");
                 }
 
-                lastName = value;
+                base.LastName = value;
             }
         }
         public double WeekSalary
