@@ -39,7 +39,7 @@ namespace Ex_BookShop_Inheritance
             }
         }
 
-        protected double Price
+        protected virtual double Price
         {
             get => price;
             set
