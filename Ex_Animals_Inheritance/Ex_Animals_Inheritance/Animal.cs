@@ -46,9 +46,9 @@ namespace Ex_Animals_Inheritance
                     throw new ArgumentException("Invalid input!");
                 }
 
-                if (value != "Male" || value != "Female")
+                if (value != "Male" && value != "Female")
                 {
-                    throw new ArgumentException("Invali Input!");
+                    throw new ArgumentException("Invalid Input!");
                 }
 
                 gender = value;

@@ -21,23 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cd6c8dbe-61e4-4f48-9432-6ab07490ac5c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/.idea/.idea.Ex_AnimalClinic/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_Animals_Inheritance/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_Animals_Inheritance/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_Animals_Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Animal.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Ex_Animals_Inheritance.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/Debug/netcoreapp3.1/Ex_Animals_Inheritance.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/Debug/netcoreapp3.1/Ex_Animals_Inheritance.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/Debug/netcoreapp3.1/Ex_Animals_Inheritance.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/Debug/netcoreapp3.1/Ex_Animals_Inheritance.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/Ex_Animals_Inheritance.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/Ex_Animals_Inheritance.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/Ex_Animals_Inheritance.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Cat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Dog.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Frog.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Kittens.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Tomcat.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex_BasicMath/.idea/.idea.Ex_BasicMath/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex_Carta/.idea/.idea.Ex_Carta/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex_Notebook/.idea/.idea.Ex_Notebook/riderModule.iml" afterDir="false" />
@@ -54,6 +42,8 @@
       <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/bin/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/bin/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex_Animals_Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex_Animals_Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Animals_Inheritance/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Animals_Inheritance/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_MordorsCrueltyPlan_Inheritance/.idea/.idea.Ex_MordorsCrueltyPlan_Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_MordorsCrueltyPlan_Inheritance/.idea/.idea.Ex_MordorsCrueltyPlan_Inheritance/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_OnlineRadioDatabase_Inheritance/.idea/.idea.Ex_OnlineRadioDatabase_Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_OnlineRadioDatabase_Inheritance/.idea/.idea.Ex_OnlineRadioDatabase_Inheritance/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/contentModel.xml" afterDir="false" />
@@ -71,10 +61,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Ex_Animals_Inheritance/Dog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex_Animals_Inheritance/Frog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex_Animals_Inheritance/Cat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex_Animals_Inheritance/Kittens.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex_Animals_Inheritance/Tomcat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ex_Animals_Inheritance/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ex_Animals_Inheritance/Animal.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -82,6 +82,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Ex_Animals_Inheritance/Animal.cs" />
+        <option value="$PROJECT_DIR$/Ex_Animals_Inheritance/Dog.cs" />
+        <option value="$PROJECT_DIR$/Ex_Animals_Inheritance/Frog.cs" />
+        <option value="$PROJECT_DIR$/Ex_Animals_Inheritance/Cat.cs" />
+        <option value="$PROJECT_DIR$/Ex_Animals_Inheritance/Kittens.cs" />
+        <option value="$PROJECT_DIR$/Ex_Animals_Inheritance/Tomcat.cs" />
+        <option value="$PROJECT_DIR$/Ex_Animals_Inheritance/Program.cs" />
       </list>
     </option>
   </component>
@@ -127,8 +133,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587311897040</updated>
-      <workItem from="1587311902387" duration="621000" />
+      <workItem from="1587311902387" duration="2072000" />
     </task>
+    <task id="LOCAL-00001" summary="AnimalInheritance v0.1 (Added class &quot;Animal&quot;)">
+      <created>1587312880915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587312880915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,11 +163,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="AnimalInheritance v0.1 (Added class &quot;Animal&quot;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="AnimalInheritance v0.1 (Added class &quot;Animal&quot;)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1587311897117">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size/62.0.1474.864@62.0.1474.864" timestamp="1587311897117" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1587312882443">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1587312882443" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587312636410">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1587312636410" />
   </component>
 </project>
