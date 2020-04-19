@@ -24,29 +24,6 @@
       <change afterPath="$PROJECT_DIR$/../Ex_BasicMath/.idea/.idea.Ex_BasicMath/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex_Carta/.idea/.idea.Ex_Carta/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex_Notebook/.idea/.idea.Ex_Notebook/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_OnlineRadioDatabase_Inheritance/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_OnlineRadioDatabase_Inheritance/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_OnlineRadioDatabase_Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Ex_OnlineRadioDatabase_Inheritance.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidArtistNameEception.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongLengthException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongMinutesException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongNameException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongSecondsException.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Song.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/Debug/netcoreapp3.1/Ex_OnlineRadioDatabase_Inheritance.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/Debug/netcoreapp3.1/Ex_OnlineRadioDatabase_Inheritance.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/Debug/netcoreapp3.1/Ex_OnlineRadioDatabase_Inheritance.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/Debug/netcoreapp3.1/Ex_OnlineRadioDatabase_Inheritance.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/Ex_OnlineRadioDatabase_Inheritance.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/Ex_OnlineRadioDatabase_Inheritance.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/Ex_OnlineRadioDatabase_Inheritance.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/obj/project.packagespec.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex_TemperatureConverter/.idea/.idea.Ex_TemperatureConverter/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex_UniqueStudentNames/.idea/.idea.Ex_UniqueStudentNames/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/Aluno.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AlunoISMAI/Ex_AlunoISMAI/Aluno.cs" afterDir="false" />
@@ -61,6 +38,9 @@
       <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_AnimalClinic/Ex_AnimalClinic/obj/Debug/netcoreapp3.1/Ex_AnimalClinic.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_MordorsCrueltyPlan_Inheritance/.idea/.idea.Ex_MordorsCrueltyPlan_Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_MordorsCrueltyPlan_Inheritance/.idea/.idea.Ex_MordorsCrueltyPlan_Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex_OnlineRadioDatabase_Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex_OnlineRadioDatabase_Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Song.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Song.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/.idea/.idea.Ex_PersonInheritance/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_PersonInheritance/Ex_PersonInheritance/obj/Debug/netcoreapp3.1/Ex_PersonInheritance.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_PersonInheritance/Ex_PersonInheritance/obj/Debug/netcoreapp3.1/Ex_PersonInheritance.csprojAssemblyReference.cache" afterDir="false" />
@@ -75,6 +55,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -99,8 +84,8 @@
         <option value="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongMinutesException.cs" />
         <option value="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongSecondsException.cs" />
         <option value="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/InvalidSongLengthException.cs" />
-        <option value="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Song.cs" />
         <option value="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Program.cs" />
+        <option value="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Song.cs" />
       </list>
     </option>
   </component>
@@ -146,8 +131,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587305027164</updated>
-      <workItem from="1587305033197" duration="3813000" />
+      <workItem from="1587305033197" duration="5709000" />
     </task>
+    <task id="LOCAL-00001" summary="OnlineRadioDatabase v1.0">
+      <created>1587309852079</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587309852079</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +161,112 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="OnlineRadioDatabase v1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="OnlineRadioDatabase v1.0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1431" height="304" key="GridCell.Tab.0.bottom" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.0.center" timestamp="1587311328073">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1587311328073" />
+    <state width="1431" height="304" key="GridCell.Tab.0.left" timestamp="1587311328073">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1587311328073" />
+    <state width="1431" height="304" key="GridCell.Tab.0.right" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.1.center" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.1.left" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.1.right" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.2.center" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.center/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.2.left" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.left/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.2.right" timestamp="1587311328074">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.2.right/62.0.1474.864@62.0.1474.864" timestamp="1587311328074" />
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state width="1431" height="304" key="GridCell.Tab.3.center" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.center/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state width="1431" height="304" key="GridCell.Tab.3.left" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.left/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state width="1431" height="304" key="GridCell.Tab.3.right" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.3.right/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state width="1431" height="304" key="GridCell.Tab.4.center" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.center/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state width="1431" height="304" key="GridCell.Tab.4.left" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.left/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state width="1431" height="304" key="GridCell.Tab.4.right" timestamp="1587311328075">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1431" height="304" key="GridCell.Tab.4.right/62.0.1474.864@62.0.1474.864" timestamp="1587311328075" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1587309853963">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/62.0.1474.864@62.0.1474.864" timestamp="1587309853963" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Song.cs</url>
+          <line>70</line>
+          <properties documentPath="$PROJECT_DIR$/Ex_OnlineRadioDatabase_Inheritance/Song.cs" initialLine="68">
+            <startOffsets>
+              <option value="1649" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1650" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

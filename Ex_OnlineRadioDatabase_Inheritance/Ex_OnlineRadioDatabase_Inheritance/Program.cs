@@ -16,10 +16,13 @@ namespace Ex_OnlineRadioDatabase_Inheritance
                 {
                     string input = Console.ReadLine();
                     string[] iWords = input.Split(";"); //Realiza o split entre ";"
+                    string[] time = iWords[2].Split(":");
 
                     s.ArtistName = iWords[0];
                     s.SongName = iWords[1];
-                    s.Time += TimeSpan.Parse(iWords[2]); //Corresponde ao tempo da musica inserido
+                    s.TimeMinutes = Int32.Parse(time[0]);
+                    s.TimeSeconds = Int32.Parse(time[1]);
+                    s.PlayListLength();
                     
                     Console.WriteLine("Song added.");
                 }
@@ -29,7 +32,7 @@ namespace Ex_OnlineRadioDatabase_Inheritance
                 }
             }
             
-            Console.WriteLine($"Playlist lenght: {s.Time}");
+            Console.WriteLine($"Playlist lenght: {s.PlayListLength()}");
         }
     }
 }

@@ -4,9 +4,12 @@ namespace Ex_OnlineRadioDatabase_Inheritance
 {
     public class Song
     {
+        TimeSpan time = new TimeSpan();
+        
         private string artistName;
         private string songName;
-        private TimeSpan time;
+        private int timeMinutes;
+        private int timeSeconds;
 
         public string ArtistName
         {
@@ -36,28 +39,40 @@ namespace Ex_OnlineRadioDatabase_Inheritance
             }
         }
 
-        public TimeSpan Time
+        public int TimeMinutes
         {
-            get => time;
+            get => timeMinutes;
             set
             {
-                if (value == TimeSpan.Zero) //Se o tempo for igual a zero
-                {
-                    throw new InvalidSongLengthException();
-                }
-
-                if (value == TimeSpan.FromMinutes(0) || value == TimeSpan.FromMinutes(15)) //Se o tempo não estiver entre 0 e 15 minutos
+                if (value < 0 || value > 14) //Se não estiver entre 0 e 14 minutos
                 {
                     throw new InvalidSongMinutesException();
                 }
-                
-                if (value == TimeSpan.FromSeconds(0) || value == TimeSpan.FromSeconds(60)) //Se o tempo não estiver entre 0 e 60 segundos
+
+                timeMinutes = value;
+            }
+        }
+
+        public int TimeSeconds
+        {
+            get => timeSeconds;
+            set
+            {
+                if (value < 0 || value > 59) //Se não estiver entre 0 e 50 segundos
                 {
                     throw new InvalidSongSecondsException();
                 }
 
-                time = value;
+                timeSeconds = value;
             }
+        }
+
+        public TimeSpan PlayListLength()
+        {
+            time.Add(TimeSpan.FromMinutes(timeMinutes));
+            time.Add(TimeSpan.FromSeconds(timeSeconds));
+
+            return time;
         }
     }
 }
