@@ -13,16 +13,17 @@ namespace Ex_BorderControl
             while (input != "End")
             {
                 string[] words = input.Split(" ");
+                IIdentifiable identifiable;
 
                 if (words.Length == 3)
                 {
-                    IIdentifiable citizen = new Citizen(words[0], Int32.Parse(words[1]), words[2]);
-                    ids.Add(citizen.Id);
+                    identifiable = new Citizen(words[0], Int32.Parse(words[1]), words[2]);
+                    ids.Add(identifiable.Id);
                 }
                 else if(words.Length == 2)
                 {
-                    IIdentifiable robot = new Robot(words[0], words[1]);
-                    ids.Add(robot.Id);
+                    identifiable = new Robot(words[0], words[1]);
+                    ids.Add(identifiable.Id);
                 }
                 
                 input = Console.ReadLine();
