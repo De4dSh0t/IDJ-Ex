@@ -9,7 +9,6 @@ namespace Ex_FoodShortage
         static void Main(string[] args)
         {
             int nPersons = Int32.Parse(Console.ReadLine());
-            List<string> names = new List<string>(); //Para verificar se existem nomes repetidos
             Dictionary<string, IBuyer> persons = new Dictionary<string, IBuyer>();
 
             for (int i = 0; i < nPersons; i++)
@@ -18,7 +17,7 @@ namespace Ex_FoodShortage
                 string[] words = personInfo.Split(" ");
 
                 //Serve para verificar se existe nomes repetidos. Caso exista, voltar um index atrás para colocar info nova
-                if (names.Contains(words[0]))
+                if (persons.ContainsKey(words[0]))
                 {
                     Console.WriteLine("<Name already exists>");
                     i--;
@@ -28,12 +27,10 @@ namespace Ex_FoodShortage
                 if (words.Length == 4)
                 {
                     persons.Add(words[0], new Citizen(words[0], Int32.Parse(words[1]), words[2], words[3]));
-                    names.Add(words[0]);
                 }
                 else if (words.Length == 3)
                 {
                     persons.Add(words[0], new Rebel(words[0], Int32.Parse(words[1]), words[2]));
-                    names.Add(words[0]);
                 }
             }
 
