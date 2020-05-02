@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Ex_FoodShortage
 {
@@ -8,8 +9,8 @@ namespace Ex_FoodShortage
         static void Main(string[] args)
         {
             int nPersons = Int32.Parse(Console.ReadLine());
-            List<string> names = new List<string>();
-            Dictionary<string, object> persons = new Dictionary<string, object>();
+            List<string> names = new List<string>(); //Para verificar se existem nomes repetidos
+            Dictionary<string, IBuyer> persons = new Dictionary<string, IBuyer>();
 
             for (int i = 0; i < nPersons; i++)
             {
@@ -37,31 +38,28 @@ namespace Ex_FoodShortage
             }
 
             string input = Console.ReadLine();
-            IBuyer buyer = null;
 
             while (input != "End")
             {
                 foreach (var p in persons)
                 {
-                    if (input == p.Key)
+                    if (p.Key == input)
                     {
-                        if (p.Value.GetType() == typeof(Citizen))
-                        {
-                            Citizen c = new Citizen();
-                            c.BuyFood();
-                        }
-                        else if (p.Value.GetType() == typeof(Rebel))
-                        {
-                            Rebel r = new Rebel();
-                            r.BuyFood();
-                        }
+                        p.Value.BuyFood();
                     }
                 }
 
                 input = Console.ReadLine();
             }
 
-            Console.WriteLine(buyer.Food);
+            int totalFood = 0;
+            
+            foreach (var p in persons)
+            {
+                totalFood += p.Value.Food;
+            }
+
+            Console.WriteLine(totalFood);
         }
     }
 }

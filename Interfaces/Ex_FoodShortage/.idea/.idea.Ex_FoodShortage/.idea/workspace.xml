@@ -26,25 +26,6 @@
       <change afterPath="$PROJECT_DIR$/../../Ex_Notebook/.idea/.idea.Ex_Notebook/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Ex_TemperatureConverter/.idea/.idea.Ex_TemperatureConverter/riderModule.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Ex_UniqueStudentNames/.idea/.idea.Ex_UniqueStudentNames/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_FoodShortage/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_FoodShortage/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ex_FoodShortage/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/Citizen.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/Ex_FoodShortage.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/IBuyer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/Rebel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/Debug/netcoreapp3.1/Ex_FoodShortage.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/Debug/netcoreapp3.1/Ex_FoodShortage.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/Debug/netcoreapp3.1/Ex_FoodShortage.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/Debug/netcoreapp3.1/Ex_FoodShortage.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/Ex_FoodShortage.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/Ex_FoodShortage.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/Ex_FoodShortage.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_FoodShortage/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ex_AlunoISMAI/Ex_AlunoISMAI/Aluno.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ex_AlunoISMAI/Ex_AlunoISMAI/Aluno.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ex_AlunoISMAI/Ex_AlunoISMAI/obj/Debug/netcoreapp3.1/Ex_AlunoISMAI.csprojAssemblyReference.cache" afterDir="false" />
@@ -72,12 +53,20 @@
       <change beforePath="$PROJECT_DIR$/../Ex_BorderControl/.idea/.idea.Ex_BorderControl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_BorderControl/.idea/.idea.Ex_BorderControl/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_BorderControl/Ex_BorderControl/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_BorderControl/Ex_BorderControl/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_Ferrari/.idea/.idea.Ex_Ferrari/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_Ferrari/.idea/.idea.Ex_Ferrari/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex_FoodShortage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex_FoodShortage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_FoodShortage/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_FoodShortage/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex_MilitaryElite/.idea/.idea.Ex_MilitaryElite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_MilitaryElite/.idea/.idea.Ex_MilitaryElite/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ex_MultipleImplementation/.idea/.idea.Ex_MultipleImplementation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex_MultipleImplementation/.idea/.idea.Ex_MultipleImplementation/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -141,14 +130,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588436050644</updated>
-      <workItem from="1588436054465" duration="5064000" />
+      <workItem from="1588436054465" duration="5264000" />
+      <workItem from="1588443463550" duration="538000" />
     </task>
+    <task id="LOCAL-00001" summary="FoodShortage v1.0 (Not working as expected)">
+      <created>1588441293040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588441293040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -160,91 +158,94 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="FoodShortage v1.0 (Not working as expected)" />
+    <option name="LAST_COMMIT_MESSAGE" value="FoodShortage v1.0 (Not working as expected)" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1588441008122">
+    <state width="1431" height="304" key="GridCell.Tab.0.bottom" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588441008122" />
-    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1588441008121">
+    <state width="1431" height="304" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.0.center" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1588441008121" />
-    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1588441008121">
+    <state width="1431" height="304" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.0.left" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1588441008121" />
-    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1588441008121">
+    <state width="1431" height="304" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.0.right" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1588441008121" />
-    <state width="1431" height="304" key="GridCell.Tab.1.bottom" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.1.center" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.1.center" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.1.left" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.1.left" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.1.right" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.1.right" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.2.bottom" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.2.center" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.2.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.2.center" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.center/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.2.left" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.2.center/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.2.left" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.left/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.2.right" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.2.left/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.2.right" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.2.right/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.3.bottom" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.2.right/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.3.center" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.3.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.3.center" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.center/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.3.left" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.3.center/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.3.left" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.left/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.3.right" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.3.left/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.3.right" timestamp="1588441326054">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.3.right/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.4.bottom" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.3.right/62.0.1474.864@62.0.1474.864" timestamp="1588441326054" />
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom" timestamp="1588441326055">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.4.center" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.4.bottom/62.0.1474.864@62.0.1474.864" timestamp="1588441326055" />
+    <state width="1431" height="304" key="GridCell.Tab.4.center" timestamp="1588441326055">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.center/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.4.left" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.4.center/62.0.1474.864@62.0.1474.864" timestamp="1588441326055" />
+    <state width="1431" height="304" key="GridCell.Tab.4.left" timestamp="1588441326055">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.left/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
-    <state width="1431" height="304" key="GridCell.Tab.4.right" timestamp="1588440698283">
+    <state width="1431" height="304" key="GridCell.Tab.4.left/62.0.1474.864@62.0.1474.864" timestamp="1588441326055" />
+    <state width="1431" height="304" key="GridCell.Tab.4.right" timestamp="1588441326055">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="304" key="GridCell.Tab.4.right/62.0.1474.864@62.0.1474.864" timestamp="1588440698283" />
+    <state width="1431" height="304" key="GridCell.Tab.4.right/62.0.1474.864@62.0.1474.864" timestamp="1588441326055" />
     <state x="392" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1588436050747">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
